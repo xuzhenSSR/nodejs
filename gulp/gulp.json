@@ -1,0 +1,15 @@
+{
+	jsmin:cnpm install --save-dev gulp-uglify,
+	js syntax:cnpm install --save-dev jshint gulp-jshint cnpm install --save-dev jshint-stylish,
+	cssmin:cnpm install --save-dev gulp-clean-css,cnpm install -g gulp-clean-css
+	htmlmin:cnpm install gulp-htmlmin –save-dev,
+	concat js and css:cnpm install --save-dev gulp-concat,cnpm install -g gulp-concat
+	less:cnpm install --save-dev gulp-less,cnpm install -g gulp-sass
+	sass:cnpm install --save-dev gulp-sass,
+	savefilemap:cnpm install gulp-sourcemaps --save-dev,cnpm install gulp-sourcemaps -g
+	browser-sync:cnpm install browser-sync gulp --save-dev,cnpm install browser-sync gulp -g
+	css3:cnpm install gulp-autoprefixer --save-dev,cnpm install gulp-autoprefixer -g
+	rename:cnpm install gulp-rename --save-dev cnpm install gulp-rename -g,
+	cnpm install --save-dev gulp-babel
+	cnpm install --save-dev babel-preset-es2015
+}
