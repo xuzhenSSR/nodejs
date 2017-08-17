@@ -2,9 +2,9 @@ gulp-xuzhen
 ===
 各个模块
 --
-#gulp-browser
+#gulp-browser#
 
-##sync so easy so fast
+##sync so easy so fast#
 
 #gulp-uglify
 
