@@ -4,6 +4,8 @@ gulp-xuzhen
 --
 #gulp-browser
 
+##sync so easy so fast
+
 #gulp-uglify
 
 #gulp-jshint
