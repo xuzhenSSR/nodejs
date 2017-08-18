@@ -5,5 +5,8 @@ node -服务器
 * fs <br>
 * url <br>
 * querystring <br>
+* http <br>
 
-## express模块
+## 第三方模块
+* mysql <br>
+* express <br>
