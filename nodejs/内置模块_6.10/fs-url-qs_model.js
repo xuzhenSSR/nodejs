@@ -15,7 +15,13 @@ fs.readFile(src,function(err,data){
       if(err)throw err;
       console.log("文件复制完成");
     });
+
 });
+//不清空追加 
+fs.appendFile("./public/user.db","一行记录",(err)=>{
+      res.write("file save ok");
+  	  res.end();
+  });
 
 //异步:(Asynchronize) 向文件中写内容
 var str = new Date().toString();
