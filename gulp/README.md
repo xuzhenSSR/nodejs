@@ -1,9 +1,9 @@
-gulp-xuzhen
+﻿gulp-xuzhen
 ===
 各个模块
 --
 ## gulp-browser#
-
+1.browser-sync start --server --files "css/*.css, *.html, js/*.js"
 ### sync so easy so fast#
 1. 准备
 2. 代码
